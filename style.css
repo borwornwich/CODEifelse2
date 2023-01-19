@@ -1,0 +1,11 @@
+body{
+    background-image: url("../New folder/pp.png");
+  
+    width: 100%;
+    text-align: center;
+    padding: 50px;
+
+}
+.box{
+    float: left;
+}
